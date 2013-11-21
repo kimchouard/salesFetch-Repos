@@ -1,7 +1,8 @@
 Repos - salesFetch
 ================
 
-This is the list of all the repositories used for building salesFetch in the Dreamforce2013 hackathon.
+
+Here is the list of all the repositories used for building salesFetch in the Dreamforce2013 hackathon.
 
 salesFetch server
 ----------------
